@@ -64,7 +64,7 @@ RegisterNumber: 23013905
 
 CODE: 
 
-/*![Exp1 code](https://github.com/NSArjun/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148233801/91ebfba5-dd97-4003-a4c6-ca750056cf62)
+![Exp1 code](https://github.com/NSArjun/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148233801/91ebfba5-dd97-4003-a4c6-ca750056cf62)
 
 Truthtable:
 
